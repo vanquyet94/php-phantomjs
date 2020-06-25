@@ -8,8 +8,8 @@
  */
 namespace JonnyW\PhantomJs\Tests\Unit\Procedure;
 
-use Twig_Environment;
-use Twig_Loader_String;
+use \Twig\Environment;
+use \Twig\Loader\String;
 use JonnyW\PhantomJs\Engine;
 use JonnyW\PhantomJs\Cache\FileCache;
 use JonnyW\PhantomJs\Cache\CacheInterface;

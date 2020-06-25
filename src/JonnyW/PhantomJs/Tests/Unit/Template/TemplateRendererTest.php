@@ -8,8 +8,8 @@
  */
 namespace JonnyW\PhantomJs\Tests\Unit\Template;
 
-use Twig_Environment;
-use Twig_Loader_String;
+use \Twig\Environment;
+use \Twig\Loader\String;
 use JonnyW\PhantomJs\Http\Request;
 use JonnyW\PhantomJs\Template\TemplateRenderer;
 
